@@ -1,5 +1,4 @@
-print("Hello Git!")
-print("dsadasdasdsadas!")
-print("dsadasdasdsadasasdadasd!")
+print("New Hello Git!")
+
 
 
